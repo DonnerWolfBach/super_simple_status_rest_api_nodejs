@@ -1,0 +1,19 @@
+{
+  "name": "super_simple_status_rest_api",
+  "version": "1.0.0",
+  "description": "A super simple Rest API to request the status of a running program or process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonnerWolfBach/super_simple_status_rest_api_nodejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonnerWolfBach/super_simple_status_rest_api_nodejs/issues"
+  },
+  "homepage": "https://github.com/DonnerWolfBach/super_simple_status_rest_api_nodejs#readme"
+}
